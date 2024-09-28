@@ -118,6 +118,4 @@ By leveraging Power BI and DAX, we gained a deeper understanding of the relation
 
 **Explore the complete dashboard [here](https://drive.google.com/file/d/19J-p6-oZLs2k-G-BOMmnz03g8ILszw-A/view?usp=drive_link)**
 
----
 
-This structure provides a clear, professional README for your Power BI project, highlighting the dashboard, key insights, and technical aspects without cluttering the page with code.
